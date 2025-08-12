@@ -1,3 +1,4 @@
+# Profile: github.com/Vicode701
 # ohms_law.py
 # This program calculates voltage using Ohm's Law: V = I * R
 
